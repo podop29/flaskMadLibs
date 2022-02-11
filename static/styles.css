@@ -1,0 +1,13 @@
+input{
+    display: block;
+    padding: 20px;
+    margin: 10px;
+}
+
+label{
+    size: 50px;
+}
+
+h1{
+    color:blueviolet;
+}
